@@ -1,4 +1,4 @@
-# 🔢 GURU CALCU - Multi-functional Calculator
+# 🔢 CALCUMATE - Multi-functional Calculator
 
 **GURU CALCU** is a powerful and modern calculator app built with **React**, supporting standard and scientific calculations, age, loan, and BMI computations — all in one sleek interface.
 
