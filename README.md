@@ -1,45 +1,41 @@
-# GURU CALCU - Multi-functional Calculator
+# 🔢 GURU CALCU - Multi-functional Calculator
 
-A powerful and modern calculator application built with React, featuring standard calculations, scientific operations, age calculation, loan computation, and BMI calculation.
+**GURU CALCU** is a powerful and modern calculator app built with **React**, supporting standard and scientific calculations, age, loan, and BMI computations — all in one sleek interface.
 
-## Features
+---
 
-- Standard Calculator
-- Scientific Calculator with advanced functions
-- Age Calculator
-- Loan Calculator with Indian currency support
-- BMI Calculator with health metrics
-- Keyboard support
-- Modern and responsive design
+## ✨ Features
 
-## Live Demo
+- 🧮 **Standard Calculator**  
+- 📐 **Scientific Calculator** with advanced mathematical functions  
+- 🎉 **Age Calculator** to compute age from birthdate  
+- 💰 **Loan Calculator** with Indian currency support  
+- ⚖️ **BMI Calculator** with health categorization  
+- ⌨️ **Keyboard Support** for fast input  
+- 📱 **Responsive Design** for all screen sizes  
 
-Visit the live demo: [GURU CALCU](https://your-github-username.github.io/guru-calcu)
+---
 
-## Created By
+## 🌐 Live Demo
 
-Developed by Shoaib
+👉 [Click here to try GURU CALCU](https://your-github-username.github.io/guru-calcu)
 
-## Technologies Used
+---
 
-- React 18
-- TailwindCSS
-- Font Awesome
+## 🖼️ Preview
 
-## Setup and Installation
+![GURU CALCU Preview](assets/preview.png)
 
-1. Clone the repository:
-bash
-git clone https://github.com/your-github-username/guru-calcu.git
+---
 
+## 👨‍💻 Created By
 
-2. Navigate to the project directory:
-bash
-cd guru-calcu
+Developed with 💙 by **Shoaib**
 
+---
 
-3. Open `index.html` in your browser
+## 🛠️ Technologies Used
 
-## License
-
-MIT License
+- ⚛️ **React 18**  
+- 🎨 **TailwindCSS**  
+- ⭐ **Font Awesome**  
